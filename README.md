@@ -1,4 +1,4 @@
-# C-Basics
+# C-Programs
 These are some programs of c. 
 
 Programs that are present:
