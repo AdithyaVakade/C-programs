@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
+#include <malloc.h>
 
 //a structure node
 struct node
